@@ -39,7 +39,7 @@ Berdasarkan data status mahasiswa menurut usia saat pendaftaran, terlihat bahwa 
 Berdasarkan grafik jumlah dropout menurut program studi, terlihat bahwa jurusan **Manajemen**, **Keperawatan**, dan **Jurnalisme** menempati posisi teratas dalam jumlah mahasiswa yang keluar. Jurusan Manajemen bahkan muncul dua kali, kemungkinan mengindikasikan dua konsentrasi atau program berbeda dengan beban dropout yang sama-sama tinggi. Hal ini mengindikasikan bahwa jurusan-jurusan populer dan dengan jumlah mahasiswa besar cenderung memiliki tingkat dropout yang tinggi pula. Sementara itu, jurusan-jurusan seperti **Biofuel Processing**, **Oral Hygiene**, dan **Communication** menunjukkan angka dropout yang jauh lebih rendah. Ini bisa mencerminkan beberapa faktor, seperti ukuran kelas yang lebih kecil, seleksi masuk yang lebih ketat, atau dukungan akademik yang lebih baik.
 
 ## Menjalankan Sistem Machine Learning
-Sistem machine learning untuk mengetahui apakah mahasiswa melakukan dropout dapat dilakuakan dengan dua cara yaitu menjalankannya di local maupun secara online. Sistem ini dibuat menggunakan streamlit dan untuk menjalankannya secara lokal dengan cara
+Sistem machine learning untuk mengetahui apakah mahasiswa melakukan dropout dapat dilakuakan dengan dua cara yaitu menjalankannya di local maupun secara [online](https://students-performance-apps.streamlit.app/). Sistem ini dibuat menggunakan streamlit dan untuk menjalankannya secara lokal dengan cara
 ```
 streamlit run app.py
 ```
